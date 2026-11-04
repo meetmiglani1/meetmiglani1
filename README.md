@@ -44,5 +44,5 @@ Computer Science undergraduate passionate about Data Structures & Algorithms, Ob
 
 ### 📬 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/)
-- **LeetCode:** [leetcode.com/u/your-username](https://leetcode.com/)
+- **LinkedIn:** [linkedin.com/in/meetmiglani](https://www.linkedin.com/)
+- **LeetCode:** [leetcode.com/u/mKShrpHpWt](https://leetcode.com/)
